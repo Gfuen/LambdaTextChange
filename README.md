@@ -14,7 +14,7 @@ within the S3 Bucket.
 
 Clone the Repo
 ```
-git clone 
+git clone https://github.com/Gfuen/LambdaTextChange.git
 ```
 
 ### License
